@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Lorem::VERSION
   s.authors     = ["Karl Gusner"]
   s.email       = ["karlgusner@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/ramz15/lorem_kg"
   s.summary     = %q{Simple lorem ipsum generator}
   s.description = %q{Simply generates lorem ipsum text.}
 
